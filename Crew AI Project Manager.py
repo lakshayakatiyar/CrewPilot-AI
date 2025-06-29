@@ -6,7 +6,7 @@ import random
 from pathlib import Path
 
 # Set your Gemini API Key here
-GEMINI_API_KEY = "AIzaSyDsG2Lci7P2UMLcJfPMVriZk1jIJ4QOs58"  # <-- Add your Gemini API Key
+GEMINI_API_KEY = ""  # <-- Add your Gemini API Key
 
 # Create a folder to store generated files
 output_dir = Path("generated project")
